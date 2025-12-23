@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Halo, Saya Nico Siagian! 👋
+# Saya Nico Siagian! 😄
 
 Saya adalah seoerang Web Developer dengan fokus pada pengembangan website yang terstruktur, rapi, dan mudah digunakan. 
 Saya memiliki ketertarikan pada frontend development dan terus meningkatkan kemampuan melalui proyek nyata dan pembelajaran berkelanjutan. 
