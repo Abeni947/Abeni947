@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Halo, Saya [Nama Anda]! 👋
+
+### 👨‍💻 Software Engineer / Data Scientist / Student
+Saya adalah seorang [Sebutkan peranmu] yang berfokus pada [Sebutkan teknologi, misal: Web Development atau AI]. Saya senang membangun proyek yang bermanfaat dan terus mempelajari teknologi baru.
+
+- 🔭 Sedang mengerjakan: **[Nama Proyek]**
+- 🌱 Sedang mempelajari: **[Next.js / Python / Rust]**
+- 💬 Tanya saya tentang: **[Topik keahlianmu]**
+- 📫 Kontak saya: **[Email/LinkedIn Link]**
+
+---
+
+### 🛠️ Teknologi & Peralatan
+![JavaScript](img.shields.io)
+![Python](img.shields.io)
+![React](img.shields.io)
+![TailwindCSS](img.shields.io)
+
+---
+
+### 📊 Statistik GitHub
+
