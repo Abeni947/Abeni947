@@ -15,25 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Halo, Saya [Nama Anda]! 👋
+# Halo, Saya Nico Siagian! 👋
 
 ### 👨‍💻 Software Engineer / Data Scientist / Student
-Saya adalah seorang [Sebutkan peranmu] yang berfokus pada [Sebutkan teknologi, misal: Web Development atau AI]. Saya senang membangun proyek yang bermanfaat dan terus mempelajari teknologi baru.
+Saya adalah seoerang Web Developer dengan fokus pada pengembangan website yang terstruktur, rapi, dan mudah digunakan. 
+Saya memiliki ketertarikan pada frontend development dan terus meningkatkan kemampuan melalui proyek nyata dan pembelajaran berkelanjutan. 
+Saya senang membangun proyek yang bermanfaat dan terus mempelajari teknologi baru.
 
-- 🔭 Sedang mengerjakan: **[Nama Proyek]**
-- 🌱 Sedang mempelajari: **[Next.js / Python / Rust]**
-- 💬 Tanya saya tentang: **[Topik keahlianmu]**
-- 📫 Kontak saya: **[Email/LinkedIn Link]**
+Saat ini saya sedang mengembangkan website frontend berbasis HTML, CSS, dan JavaScript dan meningkatkan kualitas kode dan struktur aplikasi.
 
----
-
-### 🛠️ Teknologi & Peralatan
-![JavaScript](img.shields.io)
-![Python](img.shields.io)
-![React](img.shields.io)
-![TailwindCSS](img.shields.io)
-
----
-
-### 📊 Statistik GitHub
-
+Terbiasa belajar secara mandiri, konsisten membangun proyek, dan berorientasi pada peningkatan kualitas kode.
+Berkomitmen untuk terus berkembang dan memberikan solusi web yang efektif dan berkualitas.
